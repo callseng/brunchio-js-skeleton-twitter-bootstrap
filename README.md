@@ -7,8 +7,8 @@ Main languages are JavaScript,
 [Backbone Relational](https://github.com/PaulUithol/Backbone-relational),
 [Underscore.js](http://documentcloud.github.com/underscore/),
 [Twitter Bootstrap](http://twitter.github.com/bootstrap/),
-[LESS](http://lesscss.org/)
-
+[LESS](http://lesscss.org/),
+[Handlebars](http://handlebarsjs.com/)
 ## Quick Start
 brunch new YOUR_APP_NAME --skeleton git://github.com/briaar/brunchio-js-skeleton-twitter-bootstrap.git
 
