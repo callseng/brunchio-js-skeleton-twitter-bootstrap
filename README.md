@@ -4,6 +4,7 @@ modified it to include Twitter Bootstrap.
 
 Main languages are JavaScript,
 [Backbone.js](http://documentcloud.github.com/backbone/),
+[Backbone Relational](https://github.com/PaulUithol/Backbone-relational),
 [Underscore.js](http://documentcloud.github.com/underscore/),
 [Twitter Bootstrap](http://twitter.github.com/bootstrap/),
 [LESS](http://lesscss.org/)
