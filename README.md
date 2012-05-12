@@ -12,6 +12,9 @@ Main languages are JavaScript,
 ## Quick Start
 brunch new YOUR_APP_NAME --skeleton git://github.com/briaar/brunchio-js-skeleton-twitter-bootstrap.git
 
+## Credit
+Bootstrap less/js from: [Eggs and Bacon](https://github.com/nezoomie/brunch-eggs-and-bacon)
+
 ## Getting started with Brunch
 
 Clone the repo and run `npm install` & `brunch build`.
