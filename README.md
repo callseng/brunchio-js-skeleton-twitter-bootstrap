@@ -3,11 +3,10 @@ This is a simple js skeleton for [Brunch](http://brunch.io/).  I've
 modified it to include Twitter Bootstrap.
 
 Main languages are JavaScript,
-[Stylus](http://learnboost.github.com/stylus/), 
-[Backbone](http://documentcloud.github.com/backbone/),
-[Underscore](http://documentcloud.github.com/underscore/),
-[Twitter Bootstrap](http://twitter.github.com/bootstrap/)
-
+[Backbone.js](http://documentcloud.github.com/backbone/),
+[Underscore.js](http://documentcloud.github.com/underscore/),
+[Twitter Bootstrap](http://twitter.github.com/bootstrap/),
+[LESS](http://lesscss.org/)
 
 ## Quick Start
 brunch new YOUR_APP_NAME --skeleton git://github.com/briaar/brunchio-js-skeleton-twitter-bootstrap.git
