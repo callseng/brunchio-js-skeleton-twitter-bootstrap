@@ -1,11 +1,18 @@
 # Brunch with js
-This is a simple js skeleton for [Brunch](http://brunch.io/).
+This is a simple js skeleton for [Brunch](http://brunch.io/).  I've
+modified it to include Twitter Bootstrap.
 
 Main languages are JavaScript,
-[Stylus](http://learnboost.github.com/stylus/) and
-[Handlebars](http://handlebarsjs.com/).
-Twitter Bootstrap
-## Getting started
+[Stylus](http://learnboost.github.com/stylus/), 
+[Backbone](http://documentcloud.github.com/backbone/),
+[Underscore](http://documentcloud.github.com/underscore/),
+[Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+
+
+## Quick Start
+brunch new YOUR_APP_NAME --skeleton git://github.com/briaar/brunchio-js-skeleton-twitter-bootstrap.git
+
+## Getting started with Brunch
 
 Clone the repo and run `npm install` & `brunch build`.
 See more info on the [official site](http://brunch.io)
