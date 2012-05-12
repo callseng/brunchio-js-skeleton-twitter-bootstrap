@@ -4,7 +4,7 @@ This is a simple js skeleton for [Brunch](http://brunch.io/).
 Main languages are JavaScript,
 [Stylus](http://learnboost.github.com/stylus/) and
 [Handlebars](http://handlebarsjs.com/).
-
+Twitter Bootstrap
 ## Getting started
 
 Clone the repo and run `npm install` & `brunch build`.
