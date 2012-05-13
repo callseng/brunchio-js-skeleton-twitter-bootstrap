@@ -31,15 +31,15 @@ exports.config =
         ]
 
     stylesheets:
-      defaultExtension: 'less'
+      defaultExtension: 'css'
       joinTo: 'stylesheets/app.css'
       order:
         before: [
-          'vendor/styles/normalize.css'
-        
+          'vendor/styles/normalize.css',
+          'vendor/styles/bootstrap.css'
         ]
         after: ['vendor/styles/prettify.css',
-          'vendor/styles/bootstrap.css',
+          'vendor/styles/bootstrap-layout-shim.css',
           'vendor/styles/bootstrap-responsive.css'
         ]
 
